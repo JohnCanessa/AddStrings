@@ -7,7 +7,7 @@ Most of us add two strings of numbers mltiple times a day.
 
 If you are interested in my approach please read the associated post in my blog at:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/15/add-strings/
 
 Keep in mind that the best way to lear is to read and experiemnt.
 
